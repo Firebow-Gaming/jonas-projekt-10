@@ -1,5 +1,5 @@
 {
-    "name": "jonas projekt 1.0",
+    "name": "jonas projekt 1",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -7,11 +7,10 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "4.0.29",
         "targetId": "calliopemini"
